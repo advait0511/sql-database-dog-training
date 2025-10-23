@@ -21,7 +21,7 @@ The queries answer real‑world business questions such as:
 - Aggregations with `COUNT`, `SUM`, `HAVING`
 - Date filtering with `YEAR()` and ranges
 - Creating and querying **views**
-- Writing recruiter‑ready, well‑structured SQL
+- Writing well‑structured SQL
 
 ## 📂 Repository Contents
 - `A2_2023s2_DogTraining_ENG` – All queries to create the database
